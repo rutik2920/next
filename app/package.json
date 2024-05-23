@@ -19,4 +19,8 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> db58dd4fb1d626277ffae8e034dc9027420dff6a
